@@ -70,3 +70,12 @@
         <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/01-real%20case" target="_blank">Real purchase notes</a>           
     </p>
 </tr>
+
+# Pizzeria
+>Using a real database from a pizzeria. 
+
+<tr>
+    <p align="center">
+        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/02-pizzeria" target="_blank">Pizzeria</a>           
+    </p>
+</tr>
