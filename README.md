@@ -1,10 +1,10 @@
-5. To see a Database manager:
-    * Adminer
-    sudo docker run \
-        --name adminer \
-        -p 8080:8080 \
-        -d \
-        adminer
+<table>
+   <tr>
+      <p align="center">
+        <a href="#about">About</a> •
+      </p>
+   </tr>
+</table>
 
-now you can see your database by accessing:
-http://localhost:8080/
+# About
+> This is repository where I am studying mainly about the apyori python algorithm. In this repository I am also looking for to explore the library Pandas instead of doing everything in SQL queries. 
