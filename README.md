@@ -56,7 +56,6 @@
 
 <tr>
     <p align="center">
-        <a href="#about">About</a> •
-        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/introductory/README.md#Intro" target="_blank">Simple Case</a>           
-      </p>
-   </tr>
+        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/introductory/" target="_blank">Simple Case</a>           
+    </p>
+</tr>
