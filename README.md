@@ -3,7 +3,9 @@
       <p align="center">
         <a href="#about">About</a> •
         <a href="#how_to_run">How to run</a> •
-        <a href="#introductory">Introductory</a> •           
+        <a href="#introductory">Introductory</a> •
+        <a href="#real_case">01 - Real Case</a> •
+        <a href="#pizzeria">02 - Pizzeria</a> •           
       </p>
    </tr>
 </table>
@@ -19,7 +21,7 @@
     * source .venv/bin/activate `to use this virtualenv`
     
 2. Clone this repository:
-    * git clone https://github.com/victor-s-santos/Python-SQL.git
+    * git clone https://github.com/victor-s-santos/discovering-association-rules.git
 
 3. Install the dependencies:
    * pip install ipython[notebook] `to install jupyter notebook`
@@ -52,10 +54,19 @@
 
 
 # Introductory
->This path where I do demonstrate of apyori python use from a very simple false market shopping note. I also demonstrate how the params are be calculated by the algorithm. 
+>This path where I do the demonstrate of apyori python use from a very simple false market shopping note. I also demonstrate how the params are be calculated by the algorithm. 
 
 <tr>
     <p align="center">
         <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/introductory/" target="_blank">Simple Case</a>           
+    </p>
+</tr>
+
+# Real_Case
+>Using a real simple note, I am going to implement the apyori and study about the returned result. Using this relation we can get good insights about the products and reach ideas to apply for increase the business. 
+
+<tr>
+    <p align="center">
+        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/01-real%20case" target="_blank">Real purchase notes</a>           
     </p>
 </tr>
