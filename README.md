@@ -3,6 +3,7 @@
       <p align="center">
         <a href="#about">About</a> •
         <a href="#how_to_run">How to run</a> •
+        <a href="#introductory">Introductory</a> •           
       </p>
    </tr>
 </table>
@@ -49,3 +50,13 @@
     * Now you can create and populate your table from adminer  accessing: http://localhost:8080/
     * __obs:__`I am not giving the values to insert in the database, but I am giving the database schema.`
 
+
+# Introductory
+>This path where I do demonstrate of apyori python use from a very simple false market shopping note. I also demonstrate how the params are be calculated by the algorithm. 
+
+<tr>
+    <p align="center">
+        <a href="#about">About</a> •
+        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/introductory/README.md#Intro" target="_blank">Simple Case</a>           
+      </p>
+   </tr>
