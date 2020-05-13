@@ -46,7 +46,6 @@
         -p 8080:8080 \
         -d \
         adminer
-
-now you can see your database by accessing:
-http://localhost:8080/
+    * Now you can create and populate your table from adminer  accessing: http://localhost:8080/
+    * __obs:__`I am not giving the values to insert in the database, but I am giving the database schema.`
 
