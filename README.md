@@ -5,7 +5,8 @@
         <a href="#how_to_run">How to run</a> •
         <a href="#introductory">Introductory</a> •
         <a href="#real_case">01 - Real Case</a> •
-        <a href="#pizzeria">02 - Pizzeria</a> •           
+        <a href="#pizzeria">02 - Pizzeria</a> •
+        <a href="#entranceexam">03 - Entrance Exam</a> •           
       </p>
    </tr>
 </table>
