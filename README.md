@@ -73,7 +73,7 @@
 </tr>
 
 # Pizzeria
->Using a real database from a pizzeria. 
+>Using a real database from a pizzeria. In this section we can see the customer behavior, like what day most orders are done, what are the most comum included items for each order, etc. Using this knowledge the owner can be choose a better way to attract more clients or even a way to optimize their sales.  
 
 <tr>
     <p align="center">
