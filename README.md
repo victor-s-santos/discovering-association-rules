@@ -93,7 +93,20 @@
 # Apriori Params
 * __Params__:
 
-| __Suport__          | __Confidence__   | __Lift__            | __Length__         |
+| __Support__          | __Confidence__   | __Lift__            | __Length__         |
 |-----------------|:-------------|:---------------:|---------------:|
 | Support represent the frequency that respective item occours in the transaction| Confidence represents how reliable this result is  | Lift demonstrates how relevant the respective rule is      | Number of rules that are going to be returned|
 | Should be provided by the user                | Should be provided by the user          | Should be provided by the user      | Should be provided by the user            |
+
+* * __Support:__
+>If an item is present in 50% of transactions then its support is 0.5
+
+* * __Confidence:__
+>Confidence is calculeted as the number of transactions with item(A) and item (B) / number of transactions with  item(A); in two items case.
+
+>Number of transactions with item(A), item(B) and item(C) / number of transactions with item(A) and item(B), when we are analising the influence power of item (C).
+
+* * __Lift:__
+>The influence power due a special item occurrence. In the above case, 
+how much more frequent does A become due to the occurrence of B.
+
