@@ -6,7 +6,7 @@
         <a href="#introductory">Introductory</a> •
         <a href="#real_case">01 - Real Case</a> •
         <a href="#pizzeria">02 - Pizzeria</a> •
-        <a href="#entranceexam">03 - Entrance Exam</a> •           
+        <a href="#entrance_exam">03 - Entrance Exam</a> •           
       </p>
    </tr>
 </table>
@@ -78,5 +78,14 @@
 <tr>
     <p align="center">
         <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/02-pizzeria" target="_blank">Pizzeria</a>           
+    </p>
+</tr>
+
+# Entrance_Exam
+>Using the real database from answered questions about economic situation for each student whose did this entrance exam. The discovered rules in this section could be used to understand the public education situation. In comercial case, this rules could be used to offer better paymant conditions, to choose better places to execute the exam for instance.      
+
+<tr>
+    <p align="center">
+        <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/03-entrance_exam" target="_blank">Entrance Exam</a>           
     </p>
 </tr>
