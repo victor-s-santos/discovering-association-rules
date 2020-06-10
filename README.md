@@ -89,3 +89,11 @@
         <a href="https://github.com/victor-s-santos/discovering-association-rules/tree/master/03-entrance_exam" target="_blank">Entrance Exam</a>           
     </p>
 </tr>
+
+# Apriori Params
+* __Params__:
+
+| __Suport__          | __Confidence__   | __Lift__            | __Length__         |
+|-----------------|:-------------|:---------------:|---------------:|
+| Support represent the frequency that respective item occours in the transaction| Confidence represents how reliable this result is  | Lift demonstrates how relevant the respective rule is      | Number of rules that are going to be returned|
+| Should be provided by the user                | Should be provided by the user          | Should be provided by the user      | Should be provided by the user            |
